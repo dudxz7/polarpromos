@@ -242,7 +242,7 @@ function Index() {
             alt="Mascote urso polar da Polar Promoções"
             width={1024}
             height={1024}
-            className="animate-logo-pulse relative h-44 w-44 object-contain sm:h-56 sm:w-56"
+            className="animate-logo-pulse relative h-44 w-44 rounded-full object-contain sm:h-56 sm:w-56"
           />
         </div>
 
